@@ -1,0 +1,10 @@
+Youtube PGS playlist: https://www.youtube.com/user/ProGuitarShopDemos/search?query=the+police
+Template lezioni (blog): quasi fatto
+Pagina 'we are coming': ok
+template bio, works, downloads: da fare
+template gear: da fare
+form contatti: da fare
+
+scegliere hosting (vps su https://core.weloveservers.net/clientarea.php, aiuto su https://www.digitalocean.com/community/)
+comprare dominio (namecheap.com)
+configurare mail server o gmail 
